@@ -2594,4 +2594,16 @@ form .site-btn{
 	}
 }
 
+/* new css */
+.highlight-text {
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 600;
+  
+  /* Set a maximum width and center the block */
+  display: block;
+  max-width: 95%; /* Adjust this percentage as needed */
+  margin: auto;
+  text-align: center; /* This centers the text within the block */
+}
 
